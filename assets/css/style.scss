@@ -2,9 +2,3 @@
 ---
 
 @import "{{ site.theme }}";
-
-/* 플레이스홀더 텍스트에 대한 사용자 정의 스타일 */
-.form-control::placeholder {
-  color: #999; /* 원하는 색상으로 변경합니다. */
-  font-style: italic; /* 원하는 스타일을 추가합니다. */
-}
